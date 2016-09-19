@@ -1,0 +1,6 @@
+c:\users\noma\documents\visual studio 2015\Projects\QucikSort\QucikSort\bin\Debug\QucikSort.exe.config
+c:\users\noma\documents\visual studio 2015\Projects\QucikSort\QucikSort\obj\Debug\QucikSort.csprojResolveAssemblyReference.cache
+c:\users\noma\documents\visual studio 2015\Projects\QucikSort\QucikSort\bin\Debug\QucikSort.exe
+c:\users\noma\documents\visual studio 2015\Projects\QucikSort\QucikSort\bin\Debug\QucikSort.pdb
+c:\users\noma\documents\visual studio 2015\Projects\QucikSort\QucikSort\obj\Debug\QucikSort.exe
+c:\users\noma\documents\visual studio 2015\Projects\QucikSort\QucikSort\obj\Debug\QucikSort.pdb
